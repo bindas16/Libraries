@@ -1,2 +1,2 @@
 # Libraries
-Analysis the data set using Pandas as well as perform some array function using numpy 
+Analysis the data set using <b>Pandas</b> as well as perform some array function using <b>numpy.</b> 
